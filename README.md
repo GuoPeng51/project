@@ -1,2 +1,2 @@
 # project
-# git联系仓库
+# git练习仓库
